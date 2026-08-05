@@ -1,0 +1,31 @@
+project_name,total_tasks,average_completion_pct,delayed_tasks,over_budget_tasks,total_planned_budget,total_actual_cost,total_budget_variance,project_health_score,health_status
+Analytics Dashboard,39,68.2,23,20,1734000.0,1424100.0,-309900.0,53.5,Red
+Website Redesign,34,70.2,21,18,1202000.0,1041300.0,-160700.0,53.8,Red
+Inventory System,45,63.1,21,21,1924000.0,1405800.0,-518200.0,54.6,Red
+Training Platform,40,66.8,23,19,1660000.0,1296200.0,-363800.0,54.6,Red
+Office Relocation,33,64.4,18,14,1155000.0,876800.0,-278200.0,55.6,Red
+Brand Refresh,28,71.1,16,15,1075000.0,871200.0,-203800.0,56.4,Red
+Supply Chain Optimization,30,60.9,19,13,1447000.0,930700.0,-516300.0,56.8,Red
+Data Warehouse Build,29,67.6,15,13,914000.0,685100.0,-228900.0,57.4,Red
+Product Launch Q1,40,69.3,23,19,1435000.0,1001000.0,-434000.0,57.5,Red
+Cloud Infrastructure,36,58.7,18,13,1166000.0,991900.0,-174100.0,58.1,Red
+Customer Portal,29,68.0,16,10,1141000.0,812200.0,-328800.0,58.6,Red
+Onboarding Automation,36,61.8,20,11,1354000.0,904600.0,-449400.0,60.0,Amber
+API Gateway,28,63.0,16,11,1002000.0,776100.0,-225900.0,60.2,Amber
+Compliance Overhaul,31,73.2,19,10,1361000.0,968800.0,-392200.0,60.2,Amber
+Mobile App Launch,33,52.6,15,11,1277000.0,854500.0,-422500.0,60.2,Amber
+Product Launch Q2,34,67.7,19,14,1280000.0,916300.0,-363700.0,60.6,Amber
+Payment Integration,39,62.0,19,18,1093000.0,835900.0,-257100.0,61.0,Amber
+ERP Implementation,27,75.0,14,12,931000.0,837400.0,-93600.0,61.1,Amber
+Social Media Revamp,31,67.8,16,15,1327000.0,972200.0,-354800.0,61.1,Amber
+DevOps Pipeline,32,63.8,15,15,973000.0,713200.0,-259800.0,62.2,Amber
+Security Audit,30,59.7,16,7,1004000.0,744400.0,-259600.0,63.7,Amber
+HR System Upgrade,32,65.3,16,11,1162000.0,784100.0,-377900.0,63.8,Amber
+Budget Planning Tool,36,65.5,18,11,1452000.0,1006700.0,-445300.0,64.6,Amber
+Performance Review System,27,58.1,11,10,1027000.0,774200.0,-252800.0,64.8,Amber
+Email Platform Migration,45,49.4,18,14,1777000.0,1062300.0,-714700.0,65.0,Amber
+CRM Migration,37,59.7,15,14,1106000.0,853500.0,-252500.0,65.9,Amber
+Marketing Automation,35,52.8,13,8,1374000.0,869200.0,-504800.0,66.7,Amber
+Chatbot Development,30,50.9,9,6,1009000.0,692600.0,-316400.0,68.3,Amber
+Annual Report,24,53.0,9,7,728000.0,508000.0,-220000.0,68.8,Amber
+Vendor Portal,30,41.2,8,7,1144000.0,568700.0,-575300.0,72.0,Amber
