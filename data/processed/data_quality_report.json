@@ -1,0 +1,26 @@
+{
+  "total_rows": 1000,
+  "missing_values": {
+    "project_name": 0,
+    "task_name": 0,
+    "assigned_to": 0,
+    "priority": 0,
+    "planned_start_date": 0,
+    "planned_end_date": 0,
+    "actual_end_date": 426,
+    "pct_complete": 0,
+    "planned_budget": 0,
+    "actual_cost": 0,
+    "status": 0,
+    "schedule_variance_days": 426,
+    "budget_variance": 0,
+    "budget_variance_pct": 0,
+    "is_delayed": 0,
+    "is_over_budget": 0,
+    "risk_level": 0,
+    "project_health_score": 0
+  },
+  "invalid_budget_rows": 0,
+  "invalid_completion_rows": 0,
+  "invalid_schedule_rows": 0
+}
