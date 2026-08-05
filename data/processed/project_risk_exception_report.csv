@@ -1,0 +1,237 @@
+risk_rank,project_name,task_name,assigned_to,priority,status,pct_complete,planned_budget,actual_cost,budget_variance,schedule_variance_days,risk_level,project_health_score
+1,Mobile App Launch,Integration Testing,Jennifer Lee,High,Delayed,0.39,31000.0,39200.0,8200.0,,High,15
+2,Brand Refresh,Vendor Evaluation,Amanda Foster,High,Delayed,0.22,35000.0,42300.0,7300.0,,High,15
+3,Website Redesign,Backup Configuration,Daniel Park,Critical,Delayed,0.29,22000.0,28300.0,6300.0,,High,15
+4,Compliance Overhaul,Database Design,Robert Garcia,High,Delayed,0.2,46000.0,51200.0,5200.0,,High,15
+5,Training Platform,Status Reporting,Jennifer Lee,High,Delayed,0.33,16000.0,20100.0,4100.0,,High,15
+6,CRM Migration,Competitive Analysis,Elena Rodriguez,High,Delayed,0.2,15000.0,17000.0,2000.0,,High,15
+7,Training Platform,Compliance Check,Priya Patel,Critical,Delayed,0.38,11000.0,12800.0,1800.0,,High,15
+8,API Gateway,Analytics Integration,Olivia Martinez,Critical,Delayed,0.4,5000.0,6400.0,1400.0,,High,15
+9,Email Platform Migration,Requirements Gathering,Chris Evans,High,Delayed,0.35,5000.0,5700.0,700.0,,High,15
+10,Product Launch Q2,Training Materials,Olivia Martinez,High,Delayed,0.41,6000.0,6300.0,300.0,,High,15
+11,DevOps Pipeline,System Configuration,Brian Taylor,High,Delayed,0.31,2000.0,2200.0,200.0,,High,15
+12,Security Audit,Data Migration,Jennifer Lee,High,Completed,1.0,94000.0,110700.0,16700.0,45.0,High,30
+13,Social Media Revamp,Content Creation,Sarah Chen,High,Completed,1.0,48000.0,50200.0,2200.0,45.0,High,30
+14,Social Media Revamp,Performance Testing,Marcus Johnson,High,Completed,1.0,21000.0,22500.0,1500.0,45.0,High,30
+15,Inventory System,Unit Testing,Marcus Johnson,High,Completed,1.0,51000.0,67000.0,16000.0,44.0,High,30
+16,Inventory System,Change Management,Natasha Singh,High,Completed,1.0,41000.0,46800.0,5800.0,44.0,High,30
+17,Product Launch Q1,Frontend Development,Hannah White,High,Completed,1.0,58000.0,66900.0,8900.0,43.0,High,30
+18,Product Launch Q1,UI/UX Design,Robert Garcia,Critical,Completed,1.0,42000.0,48400.0,6400.0,43.0,High,30
+19,Payment Integration,Post-Launch Review,Natasha Singh,High,Completed,1.0,29000.0,34700.0,5700.0,40.0,High,30
+20,Budget Planning Tool,Prototype Development,Rachel Thompson,High,Completed,1.0,47000.0,50700.0,3700.0,40.0,High,30
+21,Annual Report,Content Creation,Michael Brown,High,Completed,1.0,19000.0,24500.0,5500.0,39.0,High,30
+22,Analytics Dashboard,Analytics Integration,Elena Rodriguez,High,Completed,1.0,15000.0,19900.0,4900.0,39.0,High,30
+23,Marketing Automation,Database Design,Kevin O'Brien,High,Completed,1.0,39000.0,42000.0,3000.0,39.0,High,30
+24,API Gateway,Quality Assurance,Stephanie Adams,Critical,Completed,1.0,89000.0,101700.0,12700.0,37.0,High,30
+25,Brand Refresh,Content Creation,Jessica Turner,High,Completed,1.0,18000.0,24900.0,6900.0,37.0,High,30
+26,Mobile App Launch,Risk Assessment,Michael Brown,High,Completed,1.0,48000.0,51100.0,3100.0,37.0,High,30
+27,Analytics Dashboard,Infrastructure Setup,Tom Mitchell,High,Completed,1.0,4000.0,5100.0,1100.0,37.0,High,30
+28,Training Platform,A/B Testing Setup,James Wilson,High,Completed,1.0,90000.0,102100.0,12100.0,35.0,High,30
+29,Brand Refresh,Deployment Planning,Jennifer Lee,High,Completed,1.0,30000.0,36900.0,6900.0,35.0,High,30
+30,Analytics Dashboard,Database Design,Jessica Turner,Critical,Completed,1.0,36000.0,41700.0,5700.0,34.0,High,30
+31,Budget Planning Tool,Optimization,Lisa Wang,High,Completed,1.0,4000.0,4900.0,900.0,33.0,High,30
+32,Training Platform,A/B Testing Setup,Kevin O'Brien,High,Completed,1.0,70000.0,92800.0,22800.0,30.0,High,30
+33,Inventory System,User Training,Kevin O'Brien,Critical,Completed,1.0,41000.0,50700.0,9700.0,30.0,High,30
+34,Payment Integration,Post-Launch Review,Ahmed Hassan,High,Completed,1.0,15000.0,16700.0,1700.0,30.0,High,30
+35,Social Media Revamp,Infrastructure Setup,Ahmed Hassan,High,Completed,1.0,37000.0,49600.0,12600.0,29.0,High,30
+36,DevOps Pipeline,Requirements Gathering,Robert Garcia,High,Completed,1.0,12000.0,12800.0,800.0,28.0,High,30
+37,Analytics Dashboard,Post-Launch Review,Rachel Thompson,High,Completed,1.0,21000.0,26200.0,5200.0,26.0,High,30
+38,Chatbot Development,Monitoring Setup,Robert Garcia,High,Completed,1.0,10000.0,13700.0,3700.0,26.0,High,30
+39,Mobile App Launch,Content Creation,Emily Davis,High,Completed,1.0,18000.0,19700.0,1700.0,25.0,High,30
+40,Training Platform,SEO Optimization,Elena Rodriguez,Critical,Completed,1.0,47000.0,64900.0,17900.0,24.0,High,30
+41,Supply Chain Optimization,Code Review,Lisa Wang,High,Completed,1.0,7000.0,8000.0,1000.0,24.0,High,30
+42,DevOps Pipeline,User Acceptance Testing,Michael Brown,High,Completed,1.0,7000.0,7900.0,900.0,24.0,High,30
+43,Social Media Revamp,User Training,Rachel Thompson,High,Completed,1.0,15000.0,20900.0,5900.0,22.0,High,30
+44,Onboarding Automation,Compliance Check,Robert Garcia,Critical,Completed,1.0,85000.0,91600.0,6600.0,21.0,High,30
+45,Product Launch Q2,Quality Assurance,Stephanie Adams,High,Completed,1.0,34000.0,35400.0,1400.0,21.0,High,30
+46,Product Launch Q2,Frontend Development,Daniel Park,High,Completed,1.0,67000.0,92200.0,25200.0,19.0,High,30
+47,Office Relocation,Vendor Evaluation,Tom Mitchell,Critical,Completed,1.0,37000.0,50500.0,13500.0,19.0,High,30
+48,Vendor Portal,Competitive Analysis,Tom Mitchell,High,Completed,1.0,31000.0,37100.0,6100.0,19.0,High,30
+49,Email Platform Migration,Vendor Evaluation,Priya Patel,High,Completed,1.0,38000.0,42100.0,4100.0,19.0,High,30
+50,Mobile App Launch,Database Design,Robert Garcia,Critical,Completed,1.0,36000.0,49600.0,13600.0,18.0,High,30
+51,CRM Migration,Vendor Evaluation,Carlos Mendez,High,Completed,1.0,31000.0,37000.0,6000.0,18.0,High,30
+52,DevOps Pipeline,Asset Design,Ahmed Hassan,High,Completed,1.0,49000.0,51700.0,2700.0,18.0,High,30
+53,CRM Migration,Compliance Check,Sarah Chen,High,Completed,1.0,19000.0,21400.0,2400.0,18.0,High,30
+54,Website Redesign,Deployment Planning,Sarah Chen,Critical,Completed,1.0,93000.0,122700.0,29700.0,17.0,High,30
+55,Supply Chain Optimization,Budget Review,Ahmed Hassan,Critical,Completed,1.0,29000.0,35400.0,6400.0,17.0,High,30
+56,Training Platform,Stakeholder Interviews,Michael Brown,High,Completed,1.0,8000.0,9300.0,1300.0,17.0,High,30
+57,DevOps Pipeline,Retrospective,Priya Patel,High,Completed,1.0,42000.0,58000.0,16000.0,16.0,High,30
+58,Supply Chain Optimization,Post-Launch Review,Daniel Park,High,Completed,1.0,45000.0,60600.0,15600.0,16.0,High,30
+59,HR System Upgrade,System Configuration,Natasha Singh,Critical,Completed,1.0,37000.0,42500.0,5500.0,16.0,High,30
+60,Inventory System,Optimization,David Kim,High,Completed,1.0,7000.0,9200.0,2200.0,16.0,High,30
+61,Brand Refresh,Go-Live Preparation,Daniel Park,High,Completed,1.0,15000.0,15400.0,400.0,16.0,High,30
+62,Mobile App Launch,Monitoring Setup,Kevin O'Brien,Critical,Completed,1.0,34000.0,44800.0,10800.0,15.0,High,30
+63,Email Platform Migration,Requirements Gathering,Sarah Chen,High,Completed,1.0,38000.0,41000.0,3000.0,15.0,High,30
+64,Mobile App Launch,Stakeholder Interviews,Lisa Wang,High,Completed,1.0,42000.0,44400.0,2400.0,15.0,High,30
+65,Data Warehouse Build,Vendor Evaluation,Sarah Chen,High,Completed,1.0,10000.0,11800.0,1800.0,15.0,High,30
+66,Product Launch Q1,Backend Development,Olivia Martinez,Critical,Completed,1.0,31000.0,35500.0,4500.0,14.0,High,30
+67,Brand Refresh,Performance Testing,Stephanie Adams,High,Completed,1.0,15000.0,16700.0,1700.0,14.0,High,30
+68,Compliance Overhaul,Analytics Integration,Chris Evans,Critical,Completed,1.0,49000.0,60600.0,11600.0,13.0,High,30
+69,Budget Planning Tool,Communication Plan,Jennifer Lee,High,Completed,1.0,14000.0,14200.0,200.0,12.0,High,30
+70,Data Warehouse Build,Feedback Collection,Elena Rodriguez,High,Completed,1.0,13000.0,15500.0,2500.0,11.0,High,30
+71,Analytics Dashboard,Post-Launch Review,Tom Mitchell,High,Completed,1.0,26000.0,35100.0,9100.0,10.0,High,30
+72,Payment Integration,UI/UX Design,Daniel Park,High,Completed,1.0,32000.0,40100.0,8100.0,10.0,High,30
+73,Budget Planning Tool,Backup Configuration,Rachel Thompson,High,Completed,1.0,40000.0,46100.0,6100.0,10.0,High,30
+74,Inventory System,Budget Review,Tom Mitchell,High,Completed,1.0,25000.0,32200.0,7200.0,9.0,High,30
+75,Office Relocation,User Acceptance Testing,Marcus Johnson,High,Completed,1.0,17000.0,22400.0,5400.0,8.0,High,30
+76,Customer Portal,Data Migration,Emily Davis,High,Completed,1.0,42000.0,44400.0,2400.0,8.0,High,30
+77,Marketing Automation,Change Management,Ahmed Hassan,Critical,Completed,1.0,11000.0,12500.0,1500.0,8.0,High,30
+78,Website Redesign,Retrospective,Tom Mitchell,High,Completed,1.0,4000.0,4500.0,500.0,7.0,High,30
+79,Onboarding Automation,Prototype Development,Amanda Foster,High,Completed,1.0,21000.0,28100.0,7100.0,6.0,High,30
+80,Payment Integration,Analytics Integration,Emily Davis,High,Completed,1.0,47000.0,50700.0,3700.0,6.0,High,30
+81,Mobile App Launch,Security Review,Olivia Martinez,Critical,Completed,1.0,16000.0,18800.0,2800.0,6.0,High,30
+82,Website Redesign,Backend Development,Elena Rodriguez,Critical,Completed,1.0,53000.0,72400.0,19400.0,5.0,High,30
+83,Office Relocation,Budget Review,Rachel Thompson,High,Completed,1.0,44000.0,61400.0,17400.0,5.0,High,30
+84,Data Warehouse Build,Integration Testing,Robert Garcia,Critical,Completed,1.0,72000.0,88400.0,16400.0,5.0,High,30
+85,Product Launch Q2,Content Creation,Chris Evans,High,Completed,1.0,35000.0,43100.0,8100.0,5.0,High,30
+86,Training Platform,Post-Launch Review,Carlos Mendez,High,Completed,1.0,31000.0,36700.0,5700.0,5.0,High,30
+87,Data Warehouse Build,Change Management,Chris Evans,High,Completed,1.0,6000.0,6800.0,800.0,5.0,High,30
+88,Cloud Infrastructure,Content Creation,Brian Taylor,High,Completed,1.0,41000.0,41800.0,800.0,5.0,High,30
+89,Inventory System,Asset Design,Elena Rodriguez,High,Completed,1.0,39000.0,39500.0,500.0,5.0,High,30
+90,CRM Migration,Content Creation,Kevin O'Brien,Critical,Completed,1.0,34000.0,44700.0,10700.0,4.0,High,30
+91,Compliance Overhaul,Deployment Planning,Brian Taylor,High,Completed,1.0,92000.0,102400.0,10400.0,4.0,High,30
+92,Supply Chain Optimization,Data Migration,Brian Taylor,Critical,Completed,1.0,156000.0,164300.0,8300.0,4.0,High,30
+93,Cloud Infrastructure,SEO Optimization,David Kim,High,Completed,1.0,21000.0,28400.0,7400.0,4.0,High,30
+94,Customer Portal,Unit Testing,Emily Davis,Critical,Completed,1.0,24000.0,26900.0,2900.0,4.0,High,30
+95,Product Launch Q1,Code Review,Natasha Singh,High,Completed,1.0,33000.0,35900.0,2900.0,4.0,High,30
+96,ERP Implementation,Security Review,Brian Taylor,High,Completed,1.0,13000.0,14400.0,1400.0,4.0,High,30
+97,Social Media Revamp,Documentation,Jessica Turner,Critical,Completed,1.0,6000.0,7300.0,1300.0,4.0,High,30
+98,Product Launch Q1,Quality Assurance,Hannah White,Critical,Completed,1.0,50000.0,51100.0,1100.0,4.0,High,30
+99,Mobile App Launch,Market Research,Natasha Singh,High,Completed,1.0,5000.0,5500.0,500.0,4.0,High,30
+100,Payment Integration,Go-Live Preparation,Jessica Turner,High,Completed,1.0,14000.0,17600.0,3600.0,3.0,High,30
+101,Payment Integration,Security Review,Rachel Thompson,High,Completed,1.0,35000.0,38500.0,3500.0,3.0,High,30
+102,Cloud Infrastructure,A/B Testing Setup,Hannah White,Critical,Completed,1.0,93000.0,93100.0,100.0,3.0,High,30
+103,CRM Migration,User Training,Olivia Martinez,High,Completed,1.0,42000.0,55600.0,13600.0,1.0,High,30
+104,Security Audit,SEO Optimization,Stephanie Adams,High,Completed,1.0,50000.0,57600.0,7600.0,1.0,High,30
+105,Performance Review System,Change Management,Lisa Wang,High,Completed,1.0,40000.0,44600.0,4600.0,1.0,High,30
+106,Supply Chain Optimization,System Configuration,Elena Rodriguez,Critical,Completed,1.0,28000.0,32500.0,4500.0,1.0,High,30
+107,Onboarding Automation,Change Management,Olivia Martinez,High,Completed,1.0,8000.0,8800.0,800.0,1.0,High,30
+108,HR System Upgrade,Compliance Check,Ahmed Hassan,High,Delayed,0.81,46000.0,58800.0,12800.0,,High,30
+109,Cloud Infrastructure,Communication Plan,Robert Garcia,Critical,Delayed,0.61,41000.0,52000.0,11000.0,,High,30
+110,Payment Integration,Data Migration,Marcus Johnson,High,Delayed,0.68,73000.0,81300.0,8300.0,,High,30
+111,DevOps Pipeline,Documentation,Daniel Park,Critical,Delayed,0.51,100000.0,107800.0,7800.0,,High,30
+112,Analytics Dashboard,Analytics Integration,Hannah White,Critical,Delayed,0.61,34000.0,40200.0,6200.0,,High,30
+113,Office Relocation,Performance Testing,Olivia Martinez,High,Delayed,0.85,47000.0,50200.0,3200.0,,High,30
+114,Payment Integration,Security Review,Robert Garcia,High,Delayed,0.79,10000.0,12100.0,2100.0,,High,30
+115,Data Warehouse Build,Retrospective,Elena Rodriguez,High,Delayed,0.67,11000.0,12900.0,1900.0,,High,30
+116,Vendor Portal,Unit Testing,Rachel Thompson,High,Delayed,0.73,30000.0,31700.0,1700.0,,High,30
+117,HR System Upgrade,Stakeholder Interviews,Tom Mitchell,Critical,Delayed,0.81,12000.0,13100.0,1100.0,,High,30
+118,HR System Upgrade,Stakeholder Interviews,Priya Patel,High,Delayed,0.61,3000.0,3700.0,700.0,,High,30
+119,Brand Refresh,Retrospective,Olivia Martinez,High,Delayed,0.37,15000.0,13700.0,-1300.0,,High,45
+120,HR System Upgrade,Communication Plan,Olivia Martinez,High,Delayed,0.46,5000.0,3500.0,-1500.0,,High,45
+121,Email Platform Migration,Stakeholder Interviews,Marcus Johnson,High,Delayed,0.36,15000.0,12700.0,-2300.0,,High,45
+122,Website Redesign,Deployment Planning,Amanda Foster,High,Delayed,0.32,18000.0,14700.0,-3300.0,,High,45
+123,Performance Review System,UI/UX Design,Ahmed Hassan,High,Delayed,0.42,20000.0,15100.0,-4900.0,,High,45
+124,Analytics Dashboard,Asset Design,Carlos Mendez,High,Delayed,0.21,48000.0,42200.0,-5800.0,,High,45
+125,Social Media Revamp,Performance Testing,Daniel Park,High,Delayed,0.28,46000.0,39800.0,-6200.0,,High,45
+126,Product Launch Q1,Training Materials,Lisa Wang,High,Delayed,0.34,39000.0,31900.0,-7100.0,,High,45
+127,Payment Integration,Go-Live Preparation,Marcus Johnson,Critical,Delayed,0.23,38000.0,29900.0,-8100.0,,High,45
+128,Training Platform,Sprint Planning,Carlos Mendez,High,Delayed,0.27,18000.0,9300.0,-8700.0,,High,45
+129,Budget Planning Tool,Retrospective,Daniel Park,High,Delayed,0.45,45000.0,33900.0,-11100.0,,High,45
+130,Supply Chain Optimization,Contract Negotiation,Elena Rodriguez,High,Delayed,0.27,31000.0,19500.0,-11500.0,,High,45
+131,Payment Integration,Frontend Development,Olivia Martinez,High,Delayed,0.39,31000.0,19100.0,-11900.0,,High,45
+132,Onboarding Automation,Quality Assurance,Stephanie Adams,High,Delayed,0.25,62000.0,47900.0,-14100.0,,High,45
+133,Customer Portal,Code Review,Chris Evans,High,Delayed,0.23,36000.0,21400.0,-14600.0,,High,45
+134,CRM Migration,Wireframing,Jessica Turner,High,Completed,1.0,24000.0,23100.0,-900.0,45.0,High,60
+135,Supply Chain Optimization,Quality Assurance,Ahmed Hassan,High,Completed,1.0,76000.0,65500.0,-10500.0,45.0,High,60
+136,DevOps Pipeline,Stakeholder Interviews,Lisa Wang,Critical,Completed,1.0,9000.0,8100.0,-900.0,44.0,High,60
+137,Analytics Dashboard,A/B Testing Setup,Amanda Foster,High,Completed,1.0,72000.0,68400.0,-3600.0,42.0,High,60
+138,Security Audit,Asset Design,Ahmed Hassan,High,Completed,1.0,15000.0,15000.0,0.0,40.0,High,60
+139,Product Launch Q2,Risk Assessment,David Kim,High,Completed,1.0,24000.0,21200.0,-2800.0,30.0,High,60
+140,Annual Report,Prototype Development,Emily Davis,High,Completed,1.0,18000.0,17300.0,-700.0,28.0,High,60
+141,Customer Portal,System Configuration,Stephanie Adams,Critical,Completed,1.0,15000.0,14600.0,-400.0,26.0,High,60
+142,Budget Planning Tool,Performance Testing,Rachel Thompson,High,Completed,1.0,73000.0,69400.0,-3600.0,26.0,High,60
+143,DevOps Pipeline,Retrospective,Ahmed Hassan,Critical,Completed,1.0,12000.0,11600.0,-400.0,25.0,High,60
+144,HR System Upgrade,Prototype Development,Ahmed Hassan,Critical,Completed,1.0,86000.0,75200.0,-10800.0,25.0,High,60
+145,Office Relocation,Frontend Development,Kevin O'Brien,High,Completed,1.0,15000.0,13600.0,-1400.0,20.0,High,60
+146,CRM Migration,Contract Negotiation,James Wilson,High,Completed,1.0,13000.0,11200.0,-1800.0,20.0,High,60
+147,DevOps Pipeline,Risk Assessment,Lisa Wang,High,Completed,1.0,6000.0,5900.0,-100.0,19.0,High,60
+148,Analytics Dashboard,Integration Testing,Jessica Turner,High,Completed,1.0,74000.0,63200.0,-10800.0,18.0,High,60
+149,Office Relocation,Market Research,Carlos Mendez,High,Completed,1.0,44000.0,43300.0,-700.0,16.0,High,60
+150,Email Platform Migration,Analytics Integration,Natasha Singh,Critical,Completed,1.0,77000.0,66000.0,-11000.0,15.0,High,60
+151,Customer Portal,Accessibility Audit,Olivia Martinez,Critical,Completed,1.0,23000.0,22900.0,-100.0,14.0,High,60
+152,Cloud Infrastructure,UI/UX Design,David Kim,High,Completed,1.0,44000.0,43600.0,-400.0,14.0,High,60
+153,Budget Planning Tool,Deployment Planning,Kevin O'Brien,Critical,Completed,1.0,44000.0,41800.0,-2200.0,14.0,High,60
+154,Supply Chain Optimization,Retrospective,Chris Evans,High,Completed,1.0,15000.0,13800.0,-1200.0,12.0,High,60
+155,Compliance Overhaul,Status Reporting,Olivia Martinez,High,Completed,1.0,23000.0,20400.0,-2600.0,12.0,High,60
+156,ERP Implementation,Communication Plan,Stephanie Adams,High,Completed,1.0,26000.0,25100.0,-900.0,8.0,High,60
+157,Chatbot Development,Quality Assurance,Kevin O'Brien,High,Completed,1.0,21000.0,19200.0,-1800.0,8.0,High,60
+158,Product Launch Q1,UI/UX Design,Chris Evans,Critical,Completed,1.0,33000.0,29900.0,-3100.0,8.0,High,60
+159,Budget Planning Tool,Performance Testing,David Kim,High,Completed,1.0,15000.0,12900.0,-2100.0,7.0,High,60
+160,Onboarding Automation,Vendor Evaluation,Brian Taylor,Critical,Completed,1.0,37000.0,34800.0,-2200.0,7.0,High,60
+161,Compliance Overhaul,API Development,Amanda Foster,High,Completed,1.0,47000.0,43000.0,-4000.0,7.0,High,60
+162,Training Platform,Code Review,Natasha Singh,Critical,Completed,1.0,42000.0,35800.0,-6200.0,7.0,High,60
+163,Marketing Automation,Infrastructure Setup,Emily Davis,Critical,Completed,1.0,28000.0,27700.0,-300.0,5.0,High,60
+164,Analytics Dashboard,Technical Architecture,Sarah Chen,Critical,Completed,1.0,28000.0,26900.0,-1100.0,5.0,High,60
+165,API Gateway,Backend Development,Rachel Thompson,Critical,Completed,1.0,51000.0,49600.0,-1400.0,5.0,High,60
+166,ERP Implementation,SEO Optimization,Sarah Chen,High,Completed,1.0,16000.0,13700.0,-2300.0,5.0,High,60
+167,Compliance Overhaul,Performance Testing,Chris Evans,High,Completed,1.0,11000.0,10200.0,-800.0,4.0,High,60
+168,Data Warehouse Build,Change Management,Priya Patel,High,Completed,1.0,14000.0,12600.0,-1400.0,4.0,High,60
+169,Performance Review System,Communication Plan,Priya Patel,High,Completed,1.0,39000.0,36600.0,-2400.0,4.0,High,60
+170,Compliance Overhaul,Risk Assessment,Emily Davis,Critical,Completed,1.0,18000.0,15300.0,-2700.0,4.0,High,60
+171,Customer Portal,Change Management,Daniel Park,High,Completed,1.0,31000.0,29800.0,-1200.0,3.0,High,60
+172,Budget Planning Tool,Bug Fixes,Sarah Chen,High,Completed,1.0,39000.0,35600.0,-3400.0,3.0,High,60
+173,HR System Upgrade,Analytics Integration,Ahmed Hassan,High,Completed,1.0,40000.0,39100.0,-900.0,2.0,High,60
+174,Product Launch Q2,Analytics Integration,Robert Garcia,High,Completed,1.0,8000.0,7500.0,-500.0,1.0,High,60
+175,Data Warehouse Build,Go-Live Preparation,Kevin O'Brien,Critical,Completed,1.0,25000.0,24500.0,-500.0,1.0,High,60
+176,Product Launch Q1,Security Review,Sarah Chen,High,Completed,1.0,11000.0,10400.0,-600.0,1.0,High,60
+177,Marketing Automation,Retrospective,Hannah White,High,Completed,1.0,11000.0,9800.0,-1200.0,1.0,High,60
+178,Mobile App Launch,Monitoring Setup,Stephanie Adams,High,Completed,1.0,54000.0,52300.0,-1700.0,1.0,High,60
+179,Brand Refresh,Backend Development,Robert Garcia,Critical,Completed,1.0,44000.0,40100.0,-3900.0,1.0,High,60
+180,API Gateway,Security Review,Lisa Wang,High,Completed,1.0,52000.0,44400.0,-7600.0,1.0,High,60
+181,Onboarding Automation,Retrospective,Stephanie Adams,High,Delayed,0.59,8000.0,7900.0,-100.0,,High,60
+182,Office Relocation,Market Research,James Wilson,High,Delayed,0.65,5000.0,4500.0,-500.0,,High,60
+183,Vendor Portal,Vendor Evaluation,Robert Garcia,Critical,Delayed,0.71,12000.0,10900.0,-1100.0,,High,60
+184,Website Redesign,Asset Design,Carlos Mendez,High,Delayed,0.63,7000.0,5900.0,-1100.0,,High,60
+185,Training Platform,Communication Plan,Hannah White,Critical,Delayed,0.68,38000.0,35800.0,-2200.0,,High,60
+186,Onboarding Automation,Sprint Planning,Natasha Singh,High,Delayed,0.7,12000.0,9800.0,-2200.0,,High,60
+187,Annual Report,Iteration Planning,Carlos Mendez,High,Delayed,0.8,40000.0,37400.0,-2600.0,,High,60
+188,API Gateway,Budget Review,Ahmed Hassan,High,Delayed,0.82,12000.0,8900.0,-3100.0,,High,60
+189,Cloud Infrastructure,Performance Testing,Natasha Singh,High,Delayed,0.56,12000.0,8700.0,-3300.0,,High,60
+190,Product Launch Q2,Analytics Integration,Ahmed Hassan,Critical,Delayed,0.81,10000.0,6000.0,-4000.0,,High,60
+191,Customer Portal,Performance Testing,Chris Evans,Critical,Delayed,0.57,10000.0,5500.0,-4500.0,,High,60
+192,Email Platform Migration,Compliance Check,Stephanie Adams,Critical,Delayed,0.59,13000.0,8300.0,-4700.0,,High,60
+193,Vendor Portal,User Training,Marcus Johnson,High,Delayed,0.67,17000.0,12000.0,-5000.0,,High,60
+194,Vendor Portal,Go-Live Preparation,Hannah White,High,Delayed,0.54,97000.0,91300.0,-5700.0,,High,60
+195,API Gateway,Accessibility Audit,Carlos Mendez,High,Delayed,0.6,47000.0,39200.0,-7800.0,,High,60
+196,Marketing Automation,Sprint Planning,Elena Rodriguez,High,Delayed,0.58,29000.0,21000.0,-8000.0,,High,60
+197,Budget Planning Tool,Requirements Gathering,Marcus Johnson,High,Delayed,0.63,23000.0,13200.0,-9800.0,,High,60
+198,Inventory System,Training Materials,James Wilson,High,Delayed,0.5,26000.0,14900.0,-11100.0,,High,60
+199,Chatbot Development,Status Reporting,Ahmed Hassan,High,Delayed,0.58,73000.0,57000.0,-16000.0,,High,60
+200,CRM Migration,Integration Testing,Jessica Turner,High,Delayed,0.85,66000.0,49400.0,-16600.0,,High,60
+201,Social Media Revamp,Go-Live Preparation,Robert Garcia,Critical,Delayed,0.75,44000.0,24900.0,-19100.0,,High,60
+202,Office Relocation,Data Migration,Robert Garcia,High,Delayed,0.61,68000.0,40000.0,-28000.0,,High,60
+203,Social Media Revamp,Integration Testing,Natasha Singh,High,Completed,1.0,91000.0,109600.0,18600.0,0.0,High,70
+204,Training Platform,Stakeholder Interviews,Brian Taylor,Critical,Completed,1.0,44000.0,58400.0,14400.0,0.0,High,70
+205,ERP Implementation,Risk Assessment,Ahmed Hassan,High,Completed,1.0,30000.0,40200.0,10200.0,0.0,High,70
+206,Website Redesign,UI/UX Design,Sarah Chen,Critical,Completed,1.0,27000.0,36700.0,9700.0,0.0,High,70
+207,Chatbot Development,User Training,Chris Evans,High,Completed,1.0,25000.0,34600.0,9600.0,0.0,High,70
+208,Office Relocation,Change Management,Elena Rodriguez,High,Completed,1.0,31000.0,37800.0,6800.0,0.0,High,70
+209,Budget Planning Tool,Technical Architecture,Olivia Martinez,Critical,Completed,1.0,63000.0,69300.0,6300.0,0.0,High,70
+210,Analytics Dashboard,Vendor Evaluation,Stephanie Adams,Critical,Completed,1.0,38000.0,42800.0,4800.0,0.0,High,70
+211,Compliance Overhaul,Security Review,Tom Mitchell,High,Completed,1.0,13000.0,17200.0,4200.0,0.0,High,70
+212,Vendor Portal,Database Design,Carlos Mendez,High,Completed,1.0,12000.0,16200.0,4200.0,0.0,High,70
+213,ERP Implementation,Compliance Check,Amanda Foster,High,Completed,1.0,15000.0,17300.0,2300.0,0.0,High,70
+214,Inventory System,API Development,Kevin O'Brien,High,Completed,1.0,8000.0,10000.0,2000.0,0.0,High,70
+215,Vendor Portal,Analytics Integration,Daniel Park,High,Completed,1.0,43000.0,44900.0,1900.0,0.0,High,70
+216,Website Redesign,Retrospective,Elena Rodriguez,High,Completed,1.0,7000.0,8700.0,1700.0,0.0,High,70
+217,HR System Upgrade,Deployment Planning,Carlos Mendez,High,Completed,1.0,5000.0,5400.0,400.0,0.0,High,70
+218,Product Launch Q1,Requirements Gathering,Jessica Turner,High,Completed,1.0,15000.0,18900.0,3900.0,-1.0,High,70
+219,HR System Upgrade,Go-Live Preparation,Hannah White,High,Completed,1.0,18000.0,18300.0,300.0,-1.0,High,70
+220,HR System Upgrade,Infrastructure Setup,David Kim,Critical,Completed,1.0,94000.0,121600.0,27600.0,-2.0,High,70
+221,Brand Refresh,Documentation,Olivia Martinez,High,Completed,1.0,40000.0,46700.0,6700.0,-2.0,High,70
+222,Annual Report,Requirements Gathering,Priya Patel,Critical,Completed,1.0,27000.0,27300.0,300.0,-2.0,High,70
+223,Inventory System,Risk Assessment,Hannah White,Critical,Completed,1.0,100000.0,116000.0,16000.0,-3.0,High,70
+224,API Gateway,Documentation,Daniel Park,Critical,Completed,1.0,6000.0,6100.0,100.0,-3.0,High,70
+225,Social Media Revamp,Iteration Planning,James Wilson,High,Completed,1.0,27000.0,28100.0,1100.0,-4.0,High,70
+226,Customer Portal,Backend Development,Daniel Park,High,Completed,1.0,32000.0,35600.0,3600.0,-5.0,High,70
+227,Social Media Revamp,Communication Plan,Jessica Turner,High,Completed,1.0,41000.0,43000.0,2000.0,-5.0,High,70
+228,CRM Migration,Data Migration,Natasha Singh,High,Completed,1.0,94000.0,114600.0,20600.0,-8.0,High,70
+229,CRM Migration,Prototype Development,Olivia Martinez,High,Completed,1.0,26000.0,29400.0,3400.0,-8.0,High,70
+230,Website Redesign,Optimization,Hannah White,High,Completed,1.0,15000.0,15500.0,500.0,-8.0,High,70
+231,Annual Report,Code Review,Michael Brown,High,Completed,1.0,14000.0,19300.0,5300.0,-9.0,High,70
+232,Payment Integration,Change Management,Robert Garcia,Critical,Completed,1.0,69000.0,84000.0,15000.0,-10.0,High,70
+233,DevOps Pipeline,Analytics Integration,Natasha Singh,High,Completed,1.0,19000.0,23200.0,4200.0,-10.0,High,70
+234,Email Platform Migration,Sprint Planning,Robert Garcia,High,Completed,1.0,3000.0,3200.0,200.0,-10.0,High,70
+235,Product Launch Q1,UI/UX Design,Carlos Mendez,Critical,In Progress,0.92,49000.0,49700.0,700.0,,High,70
+236,Brand Refresh,Sprint Planning,Rachel Thompson,Critical,In Progress,0.91,9000.0,9200.0,200.0,,High,70
