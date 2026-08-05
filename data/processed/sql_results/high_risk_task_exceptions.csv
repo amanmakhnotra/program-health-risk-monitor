@@ -1,0 +1,237 @@
+project_name,task_name,assigned_to,priority,status,pct_complete,planned_end_date,actual_end_date,budget_variance,schedule_variance_days,risk_level,project_health_score
+Mobile App Launch,Integration Testing,Jennifer Lee,High,Delayed,0.39,2024-04-17,,8200.0,,High,15
+Brand Refresh,Vendor Evaluation,Amanda Foster,High,Delayed,0.22,2025-03-16,,7300.0,,High,15
+Website Redesign,Backup Configuration,Daniel Park,Critical,Delayed,0.29,2024-07-16,,6300.0,,High,15
+Compliance Overhaul,Database Design,Robert Garcia,High,Delayed,0.2,2024-03-19,,5200.0,,High,15
+Training Platform,Status Reporting,Jennifer Lee,High,Delayed,0.33,2024-05-02,,4100.0,,High,15
+CRM Migration,Competitive Analysis,Elena Rodriguez,High,Delayed,0.2,2024-05-03,,2000.0,,High,15
+Training Platform,Compliance Check,Priya Patel,Critical,Delayed,0.38,2024-04-28,,1800.0,,High,15
+API Gateway,Analytics Integration,Olivia Martinez,Critical,Delayed,0.4,2025-01-12,,1400.0,,High,15
+Email Platform Migration,Requirements Gathering,Chris Evans,High,Delayed,0.35,2024-12-27,,700.0,,High,15
+Product Launch Q2,Training Materials,Olivia Martinez,High,Delayed,0.41,2024-06-29,,300.0,,High,15
+DevOps Pipeline,System Configuration,Brian Taylor,High,Delayed,0.31,2024-02-09,,200.0,,High,15
+Website Redesign,Deployment Planning,Sarah Chen,Critical,Completed,1.0,2025-02-09,2025-02-26,29700.0,17.0,High,30
+Product Launch Q2,Frontend Development,Daniel Park,High,Completed,1.0,2024-05-24,2024-06-12,25200.0,19.0,High,30
+Training Platform,A/B Testing Setup,Kevin O'Brien,High,Completed,1.0,2024-07-23,2024-08-22,22800.0,30.0,High,30
+Website Redesign,Backend Development,Elena Rodriguez,Critical,Completed,1.0,2024-03-12,2024-03-17,19400.0,5.0,High,30
+Training Platform,SEO Optimization,Elena Rodriguez,Critical,Completed,1.0,2024-10-01,2024-10-25,17900.0,24.0,High,30
+Office Relocation,Budget Review,Rachel Thompson,High,Completed,1.0,2024-10-25,2024-10-30,17400.0,5.0,High,30
+Security Audit,Data Migration,Jennifer Lee,High,Completed,1.0,2025-02-23,2025-04-09,16700.0,45.0,High,30
+Data Warehouse Build,Integration Testing,Robert Garcia,Critical,Completed,1.0,2024-10-03,2024-10-08,16400.0,5.0,High,30
+DevOps Pipeline,Retrospective,Priya Patel,High,Completed,1.0,2024-12-23,2025-01-08,16000.0,16.0,High,30
+Inventory System,Unit Testing,Marcus Johnson,High,Completed,1.0,2024-06-23,2024-08-06,16000.0,44.0,High,30
+Supply Chain Optimization,Post-Launch Review,Daniel Park,High,Completed,1.0,2024-07-11,2024-07-27,15600.0,16.0,High,30
+Mobile App Launch,Database Design,Robert Garcia,Critical,Completed,1.0,2024-03-09,2024-03-27,13600.0,18.0,High,30
+CRM Migration,User Training,Olivia Martinez,High,Completed,1.0,2024-10-11,2024-10-12,13600.0,1.0,High,30
+Office Relocation,Vendor Evaluation,Tom Mitchell,Critical,Completed,1.0,2024-07-24,2024-08-12,13500.0,19.0,High,30
+HR System Upgrade,Compliance Check,Ahmed Hassan,High,Delayed,0.81,2024-10-23,,12800.0,,High,30
+API Gateway,Quality Assurance,Stephanie Adams,Critical,Completed,1.0,2024-10-27,2024-12-03,12700.0,37.0,High,30
+Social Media Revamp,Infrastructure Setup,Ahmed Hassan,High,Completed,1.0,2024-02-13,2024-03-13,12600.0,29.0,High,30
+Training Platform,A/B Testing Setup,James Wilson,High,Completed,1.0,2024-04-26,2024-05-31,12100.0,35.0,High,30
+Compliance Overhaul,Analytics Integration,Chris Evans,Critical,Completed,1.0,2024-10-10,2024-10-23,11600.0,13.0,High,30
+Cloud Infrastructure,Communication Plan,Robert Garcia,Critical,Delayed,0.61,2024-03-16,,11000.0,,High,30
+Mobile App Launch,Monitoring Setup,Kevin O'Brien,Critical,Completed,1.0,2024-09-07,2024-09-22,10800.0,15.0,High,30
+CRM Migration,Content Creation,Kevin O'Brien,Critical,Completed,1.0,2024-02-26,2024-03-01,10700.0,4.0,High,30
+Compliance Overhaul,Deployment Planning,Brian Taylor,High,Completed,1.0,2024-12-01,2024-12-05,10400.0,4.0,High,30
+Inventory System,User Training,Kevin O'Brien,Critical,Completed,1.0,2024-08-30,2024-09-29,9700.0,30.0,High,30
+Analytics Dashboard,Post-Launch Review,Tom Mitchell,High,Completed,1.0,2024-08-31,2024-09-10,9100.0,10.0,High,30
+Product Launch Q1,Frontend Development,Hannah White,High,Completed,1.0,2025-02-03,2025-03-18,8900.0,43.0,High,30
+Supply Chain Optimization,Data Migration,Brian Taylor,Critical,Completed,1.0,2024-07-17,2024-07-21,8300.0,4.0,High,30
+Payment Integration,Data Migration,Marcus Johnson,High,Delayed,0.68,2025-04-08,,8300.0,,High,30
+Payment Integration,UI/UX Design,Daniel Park,High,Completed,1.0,2024-02-07,2024-02-17,8100.0,10.0,High,30
+Product Launch Q2,Content Creation,Chris Evans,High,Completed,1.0,2024-05-02,2024-05-07,8100.0,5.0,High,30
+DevOps Pipeline,Documentation,Daniel Park,Critical,Delayed,0.51,2024-10-10,,7800.0,,High,30
+Security Audit,SEO Optimization,Stephanie Adams,High,Completed,1.0,2024-10-20,2024-10-21,7600.0,1.0,High,30
+Cloud Infrastructure,SEO Optimization,David Kim,High,Completed,1.0,2024-03-25,2024-03-29,7400.0,4.0,High,30
+Inventory System,Budget Review,Tom Mitchell,High,Completed,1.0,2024-06-27,2024-07-06,7200.0,9.0,High,30
+Onboarding Automation,Prototype Development,Amanda Foster,High,Completed,1.0,2024-12-16,2024-12-22,7100.0,6.0,High,30
+Brand Refresh,Deployment Planning,Jennifer Lee,High,Completed,1.0,2025-01-06,2025-02-10,6900.0,35.0,High,30
+Brand Refresh,Content Creation,Jessica Turner,High,Completed,1.0,2024-02-16,2024-03-24,6900.0,37.0,High,30
+Onboarding Automation,Compliance Check,Robert Garcia,Critical,Completed,1.0,2024-03-28,2024-04-18,6600.0,21.0,High,30
+Product Launch Q1,UI/UX Design,Robert Garcia,Critical,Completed,1.0,2024-12-06,2025-01-18,6400.0,43.0,High,30
+Supply Chain Optimization,Budget Review,Ahmed Hassan,Critical,Completed,1.0,2024-07-30,2024-08-16,6400.0,17.0,High,30
+Analytics Dashboard,Analytics Integration,Hannah White,Critical,Delayed,0.61,2025-03-01,,6200.0,,High,30
+Vendor Portal,Competitive Analysis,Tom Mitchell,High,Completed,1.0,2024-04-23,2024-05-12,6100.0,19.0,High,30
+Budget Planning Tool,Backup Configuration,Rachel Thompson,High,Completed,1.0,2024-09-21,2024-10-01,6100.0,10.0,High,30
+CRM Migration,Vendor Evaluation,Carlos Mendez,High,Completed,1.0,2024-11-06,2024-11-24,6000.0,18.0,High,30
+Social Media Revamp,User Training,Rachel Thompson,High,Completed,1.0,2024-04-27,2024-05-19,5900.0,22.0,High,30
+Inventory System,Change Management,Natasha Singh,High,Completed,1.0,2024-11-23,2025-01-06,5800.0,44.0,High,30
+Payment Integration,Post-Launch Review,Natasha Singh,High,Completed,1.0,2024-06-28,2024-08-07,5700.0,40.0,High,30
+Training Platform,Post-Launch Review,Carlos Mendez,High,Completed,1.0,2024-08-25,2024-08-30,5700.0,5.0,High,30
+Analytics Dashboard,Database Design,Jessica Turner,Critical,Completed,1.0,2024-06-25,2024-07-29,5700.0,34.0,High,30
+Annual Report,Content Creation,Michael Brown,High,Completed,1.0,2024-02-24,2024-04-03,5500.0,39.0,High,30
+HR System Upgrade,System Configuration,Natasha Singh,Critical,Completed,1.0,2025-01-29,2025-02-14,5500.0,16.0,High,30
+Office Relocation,User Acceptance Testing,Marcus Johnson,High,Completed,1.0,2025-02-19,2025-02-27,5400.0,8.0,High,30
+Analytics Dashboard,Post-Launch Review,Rachel Thompson,High,Completed,1.0,2024-09-23,2024-10-19,5200.0,26.0,High,30
+Analytics Dashboard,Analytics Integration,Elena Rodriguez,High,Completed,1.0,2024-05-27,2024-07-05,4900.0,39.0,High,30
+Performance Review System,Change Management,Lisa Wang,High,Completed,1.0,2024-06-26,2024-06-27,4600.0,1.0,High,30
+Product Launch Q1,Backend Development,Olivia Martinez,Critical,Completed,1.0,2024-10-16,2024-10-30,4500.0,14.0,High,30
+Supply Chain Optimization,System Configuration,Elena Rodriguez,Critical,Completed,1.0,2024-05-13,2024-05-14,4500.0,1.0,High,30
+Email Platform Migration,Vendor Evaluation,Priya Patel,High,Completed,1.0,2024-03-25,2024-04-13,4100.0,19.0,High,30
+Payment Integration,Analytics Integration,Emily Davis,High,Completed,1.0,2024-12-28,2025-01-03,3700.0,6.0,High,30
+Budget Planning Tool,Prototype Development,Rachel Thompson,High,Completed,1.0,2024-04-11,2024-05-21,3700.0,40.0,High,30
+Chatbot Development,Monitoring Setup,Robert Garcia,High,Completed,1.0,2024-04-03,2024-04-29,3700.0,26.0,High,30
+Payment Integration,Go-Live Preparation,Jessica Turner,High,Completed,1.0,2024-07-27,2024-07-30,3600.0,3.0,High,30
+Payment Integration,Security Review,Rachel Thompson,High,Completed,1.0,2024-03-03,2024-03-06,3500.0,3.0,High,30
+Office Relocation,Performance Testing,Olivia Martinez,High,Delayed,0.85,2024-07-11,,3200.0,,High,30
+Mobile App Launch,Risk Assessment,Michael Brown,High,Completed,1.0,2024-02-10,2024-03-18,3100.0,37.0,High,30
+Marketing Automation,Database Design,Kevin O'Brien,High,Completed,1.0,2024-05-08,2024-06-16,3000.0,39.0,High,30
+Email Platform Migration,Requirements Gathering,Sarah Chen,High,Completed,1.0,2024-08-06,2024-08-21,3000.0,15.0,High,30
+Customer Portal,Unit Testing,Emily Davis,Critical,Completed,1.0,2025-01-08,2025-01-12,2900.0,4.0,High,30
+Product Launch Q1,Code Review,Natasha Singh,High,Completed,1.0,2024-05-31,2024-06-04,2900.0,4.0,High,30
+Mobile App Launch,Security Review,Olivia Martinez,Critical,Completed,1.0,2024-03-23,2024-03-29,2800.0,6.0,High,30
+DevOps Pipeline,Asset Design,Ahmed Hassan,High,Completed,1.0,2025-02-09,2025-02-27,2700.0,18.0,High,30
+Data Warehouse Build,Feedback Collection,Elena Rodriguez,High,Completed,1.0,2024-12-19,2024-12-30,2500.0,11.0,High,30
+Mobile App Launch,Stakeholder Interviews,Lisa Wang,High,Completed,1.0,2024-05-20,2024-06-04,2400.0,15.0,High,30
+Customer Portal,Data Migration,Emily Davis,High,Completed,1.0,2024-11-21,2024-11-29,2400.0,8.0,High,30
+CRM Migration,Compliance Check,Sarah Chen,High,Completed,1.0,2024-07-02,2024-07-20,2400.0,18.0,High,30
+Inventory System,Optimization,David Kim,High,Completed,1.0,2024-03-28,2024-04-13,2200.0,16.0,High,30
+Social Media Revamp,Content Creation,Sarah Chen,High,Completed,1.0,2025-03-05,2025-04-19,2200.0,45.0,High,30
+Payment Integration,Security Review,Robert Garcia,High,Delayed,0.79,2024-09-19,,2100.0,,High,30
+Data Warehouse Build,Retrospective,Elena Rodriguez,High,Delayed,0.67,2025-03-18,,1900.0,,High,30
+Data Warehouse Build,Vendor Evaluation,Sarah Chen,High,Completed,1.0,2024-12-18,2025-01-02,1800.0,15.0,High,30
+Mobile App Launch,Content Creation,Emily Davis,High,Completed,1.0,2024-07-19,2024-08-13,1700.0,25.0,High,30
+Brand Refresh,Performance Testing,Stephanie Adams,High,Completed,1.0,2024-12-01,2024-12-15,1700.0,14.0,High,30
+Payment Integration,Post-Launch Review,Ahmed Hassan,High,Completed,1.0,2024-01-26,2024-02-25,1700.0,30.0,High,30
+Vendor Portal,Unit Testing,Rachel Thompson,High,Delayed,0.73,2024-03-02,,1700.0,,High,30
+Social Media Revamp,Performance Testing,Marcus Johnson,High,Completed,1.0,2025-01-24,2025-03-10,1500.0,45.0,High,30
+Marketing Automation,Change Management,Ahmed Hassan,Critical,Completed,1.0,2024-08-23,2024-08-31,1500.0,8.0,High,30
+ERP Implementation,Security Review,Brian Taylor,High,Completed,1.0,2024-03-07,2024-03-11,1400.0,4.0,High,30
+Product Launch Q2,Quality Assurance,Stephanie Adams,High,Completed,1.0,2024-02-01,2024-02-22,1400.0,21.0,High,30
+Social Media Revamp,Documentation,Jessica Turner,Critical,Completed,1.0,2024-06-05,2024-06-09,1300.0,4.0,High,30
+Training Platform,Stakeholder Interviews,Michael Brown,High,Completed,1.0,2024-10-23,2024-11-09,1300.0,17.0,High,30
+Product Launch Q1,Quality Assurance,Hannah White,Critical,Completed,1.0,2024-07-11,2024-07-15,1100.0,4.0,High,30
+Analytics Dashboard,Infrastructure Setup,Tom Mitchell,High,Completed,1.0,2024-07-04,2024-08-10,1100.0,37.0,High,30
+HR System Upgrade,Stakeholder Interviews,Tom Mitchell,Critical,Delayed,0.81,2024-02-04,,1100.0,,High,30
+Supply Chain Optimization,Code Review,Lisa Wang,High,Completed,1.0,2024-11-02,2024-11-26,1000.0,24.0,High,30
+DevOps Pipeline,User Acceptance Testing,Michael Brown,High,Completed,1.0,2024-10-25,2024-11-18,900.0,24.0,High,30
+Budget Planning Tool,Optimization,Lisa Wang,High,Completed,1.0,2024-08-03,2024-09-05,900.0,33.0,High,30
+Data Warehouse Build,Change Management,Chris Evans,High,Completed,1.0,2024-02-19,2024-02-24,800.0,5.0,High,30
+Onboarding Automation,Change Management,Olivia Martinez,High,Completed,1.0,2024-04-04,2024-04-05,800.0,1.0,High,30
+Cloud Infrastructure,Content Creation,Brian Taylor,High,Completed,1.0,2024-03-03,2024-03-08,800.0,5.0,High,30
+DevOps Pipeline,Requirements Gathering,Robert Garcia,High,Completed,1.0,2025-01-07,2025-02-04,800.0,28.0,High,30
+HR System Upgrade,Stakeholder Interviews,Priya Patel,High,Delayed,0.61,2024-10-31,,700.0,,High,30
+Website Redesign,Retrospective,Tom Mitchell,High,Completed,1.0,2024-05-08,2024-05-15,500.0,7.0,High,30
+Mobile App Launch,Market Research,Natasha Singh,High,Completed,1.0,2024-02-26,2024-03-01,500.0,4.0,High,30
+Inventory System,Asset Design,Elena Rodriguez,High,Completed,1.0,2024-09-11,2024-09-16,500.0,5.0,High,30
+Brand Refresh,Go-Live Preparation,Daniel Park,High,Completed,1.0,2024-02-21,2024-03-08,400.0,16.0,High,30
+Budget Planning Tool,Communication Plan,Jennifer Lee,High,Completed,1.0,2024-08-27,2024-09-08,200.0,12.0,High,30
+Cloud Infrastructure,A/B Testing Setup,Hannah White,Critical,Completed,1.0,2024-09-07,2024-09-10,100.0,3.0,High,30
+Brand Refresh,Retrospective,Olivia Martinez,High,Delayed,0.37,2024-12-10,,-1300.0,,High,45
+HR System Upgrade,Communication Plan,Olivia Martinez,High,Delayed,0.46,2024-04-20,,-1500.0,,High,45
+Email Platform Migration,Stakeholder Interviews,Marcus Johnson,High,Delayed,0.36,2024-03-28,,-2300.0,,High,45
+Website Redesign,Deployment Planning,Amanda Foster,High,Delayed,0.32,2024-10-21,,-3300.0,,High,45
+Performance Review System,UI/UX Design,Ahmed Hassan,High,Delayed,0.42,2024-12-04,,-4900.0,,High,45
+Analytics Dashboard,Asset Design,Carlos Mendez,High,Delayed,0.21,2024-05-13,,-5800.0,,High,45
+Social Media Revamp,Performance Testing,Daniel Park,High,Delayed,0.28,2025-02-20,,-6200.0,,High,45
+Product Launch Q1,Training Materials,Lisa Wang,High,Delayed,0.34,2025-01-03,,-7100.0,,High,45
+Payment Integration,Go-Live Preparation,Marcus Johnson,Critical,Delayed,0.23,2025-02-11,,-8100.0,,High,45
+Training Platform,Sprint Planning,Carlos Mendez,High,Delayed,0.27,2024-11-24,,-8700.0,,High,45
+Budget Planning Tool,Retrospective,Daniel Park,High,Delayed,0.45,2024-12-20,,-11100.0,,High,45
+Supply Chain Optimization,Contract Negotiation,Elena Rodriguez,High,Delayed,0.27,2025-01-27,,-11500.0,,High,45
+Payment Integration,Frontend Development,Olivia Martinez,High,Delayed,0.39,2025-02-14,,-11900.0,,High,45
+Onboarding Automation,Quality Assurance,Stephanie Adams,High,Delayed,0.25,2024-07-07,,-14100.0,,High,45
+Customer Portal,Code Review,Chris Evans,High,Delayed,0.23,2024-10-13,,-14600.0,,High,45
+Security Audit,Asset Design,Ahmed Hassan,High,Completed,1.0,2024-03-10,2024-04-19,0.0,40.0,High,60
+DevOps Pipeline,Risk Assessment,Lisa Wang,High,Completed,1.0,2025-02-22,2025-03-13,-100.0,19.0,High,60
+Onboarding Automation,Retrospective,Stephanie Adams,High,Delayed,0.59,2025-01-03,,-100.0,,High,60
+Customer Portal,Accessibility Audit,Olivia Martinez,Critical,Completed,1.0,2024-02-10,2024-02-24,-100.0,14.0,High,60
+Marketing Automation,Infrastructure Setup,Emily Davis,Critical,Completed,1.0,2024-04-18,2024-04-23,-300.0,5.0,High,60
+Customer Portal,System Configuration,Stephanie Adams,Critical,Completed,1.0,2024-08-07,2024-09-02,-400.0,26.0,High,60
+DevOps Pipeline,Retrospective,Ahmed Hassan,Critical,Completed,1.0,2024-02-03,2024-02-28,-400.0,25.0,High,60
+Cloud Infrastructure,UI/UX Design,David Kim,High,Completed,1.0,2024-07-05,2024-07-19,-400.0,14.0,High,60
+Product Launch Q2,Analytics Integration,Robert Garcia,High,Completed,1.0,2024-05-01,2024-05-02,-500.0,1.0,High,60
+Office Relocation,Market Research,James Wilson,High,Delayed,0.65,2024-03-12,,-500.0,,High,60
+Data Warehouse Build,Go-Live Preparation,Kevin O'Brien,Critical,Completed,1.0,2024-04-23,2024-04-24,-500.0,1.0,High,60
+Product Launch Q1,Security Review,Sarah Chen,High,Completed,1.0,2025-03-09,2025-03-10,-600.0,1.0,High,60
+Annual Report,Prototype Development,Emily Davis,High,Completed,1.0,2024-03-28,2024-04-25,-700.0,28.0,High,60
+Office Relocation,Market Research,Carlos Mendez,High,Completed,1.0,2025-02-25,2025-03-13,-700.0,16.0,High,60
+Compliance Overhaul,Performance Testing,Chris Evans,High,Completed,1.0,2024-07-24,2024-07-28,-800.0,4.0,High,60
+CRM Migration,Wireframing,Jessica Turner,High,Completed,1.0,2024-10-13,2024-11-27,-900.0,45.0,High,60
+DevOps Pipeline,Stakeholder Interviews,Lisa Wang,Critical,Completed,1.0,2024-08-12,2024-09-25,-900.0,44.0,High,60
+HR System Upgrade,Analytics Integration,Ahmed Hassan,High,Completed,1.0,2024-02-09,2024-02-11,-900.0,2.0,High,60
+ERP Implementation,Communication Plan,Stephanie Adams,High,Completed,1.0,2024-08-25,2024-09-02,-900.0,8.0,High,60
+Vendor Portal,Vendor Evaluation,Robert Garcia,Critical,Delayed,0.71,2024-06-20,,-1100.0,,High,60
+Website Redesign,Asset Design,Carlos Mendez,High,Delayed,0.63,2024-01-30,,-1100.0,,High,60
+Analytics Dashboard,Technical Architecture,Sarah Chen,Critical,Completed,1.0,2024-11-17,2024-11-22,-1100.0,5.0,High,60
+Supply Chain Optimization,Retrospective,Chris Evans,High,Completed,1.0,2024-06-13,2024-06-25,-1200.0,12.0,High,60
+Customer Portal,Change Management,Daniel Park,High,Completed,1.0,2024-12-23,2024-12-26,-1200.0,3.0,High,60
+Marketing Automation,Retrospective,Hannah White,High,Completed,1.0,2024-12-15,2024-12-16,-1200.0,1.0,High,60
+Office Relocation,Frontend Development,Kevin O'Brien,High,Completed,1.0,2024-11-25,2024-12-15,-1400.0,20.0,High,60
+Data Warehouse Build,Change Management,Priya Patel,High,Completed,1.0,2024-01-30,2024-02-03,-1400.0,4.0,High,60
+API Gateway,Backend Development,Rachel Thompson,Critical,Completed,1.0,2024-04-27,2024-05-02,-1400.0,5.0,High,60
+Mobile App Launch,Monitoring Setup,Stephanie Adams,High,Completed,1.0,2024-10-17,2024-10-18,-1700.0,1.0,High,60
+CRM Migration,Contract Negotiation,James Wilson,High,Completed,1.0,2025-02-02,2025-02-22,-1800.0,20.0,High,60
+Chatbot Development,Quality Assurance,Kevin O'Brien,High,Completed,1.0,2024-04-20,2024-04-28,-1800.0,8.0,High,60
+Budget Planning Tool,Performance Testing,David Kim,High,Completed,1.0,2024-10-06,2024-10-13,-2100.0,7.0,High,60
+Training Platform,Communication Plan,Hannah White,Critical,Delayed,0.68,2024-11-14,,-2200.0,,High,60
+Onboarding Automation,Sprint Planning,Natasha Singh,High,Delayed,0.7,2025-01-10,,-2200.0,,High,60
+Budget Planning Tool,Deployment Planning,Kevin O'Brien,Critical,Completed,1.0,2024-11-10,2024-11-24,-2200.0,14.0,High,60
+Onboarding Automation,Vendor Evaluation,Brian Taylor,Critical,Completed,1.0,2024-06-10,2024-06-17,-2200.0,7.0,High,60
+ERP Implementation,SEO Optimization,Sarah Chen,High,Completed,1.0,2024-06-22,2024-06-27,-2300.0,5.0,High,60
+Performance Review System,Communication Plan,Priya Patel,High,Completed,1.0,2024-08-26,2024-08-30,-2400.0,4.0,High,60
+Compliance Overhaul,Status Reporting,Olivia Martinez,High,Completed,1.0,2024-12-29,2025-01-10,-2600.0,12.0,High,60
+Annual Report,Iteration Planning,Carlos Mendez,High,Delayed,0.8,2025-02-02,,-2600.0,,High,60
+Compliance Overhaul,Risk Assessment,Emily Davis,Critical,Completed,1.0,2024-08-25,2024-08-29,-2700.0,4.0,High,60
+Product Launch Q2,Risk Assessment,David Kim,High,Completed,1.0,2024-04-16,2024-05-16,-2800.0,30.0,High,60
+API Gateway,Budget Review,Ahmed Hassan,High,Delayed,0.82,2024-10-01,,-3100.0,,High,60
+Product Launch Q1,UI/UX Design,Chris Evans,Critical,Completed,1.0,2024-10-19,2024-10-27,-3100.0,8.0,High,60
+Cloud Infrastructure,Performance Testing,Natasha Singh,High,Delayed,0.56,2024-09-27,,-3300.0,,High,60
+Budget Planning Tool,Bug Fixes,Sarah Chen,High,Completed,1.0,2024-01-29,2024-02-01,-3400.0,3.0,High,60
+Budget Planning Tool,Performance Testing,Rachel Thompson,High,Completed,1.0,2024-03-21,2024-04-16,-3600.0,26.0,High,60
+Analytics Dashboard,A/B Testing Setup,Amanda Foster,High,Completed,1.0,2025-01-09,2025-02-20,-3600.0,42.0,High,60
+Brand Refresh,Backend Development,Robert Garcia,Critical,Completed,1.0,2025-03-04,2025-03-05,-3900.0,1.0,High,60
+Compliance Overhaul,API Development,Amanda Foster,High,Completed,1.0,2024-06-17,2024-06-24,-4000.0,7.0,High,60
+Product Launch Q2,Analytics Integration,Ahmed Hassan,Critical,Delayed,0.81,2024-01-27,,-4000.0,,High,60
+Customer Portal,Performance Testing,Chris Evans,Critical,Delayed,0.57,2025-01-30,,-4500.0,,High,60
+Email Platform Migration,Compliance Check,Stephanie Adams,Critical,Delayed,0.59,2024-02-11,,-4700.0,,High,60
+Vendor Portal,User Training,Marcus Johnson,High,Delayed,0.67,2024-08-20,,-5000.0,,High,60
+Vendor Portal,Go-Live Preparation,Hannah White,High,Delayed,0.54,2025-01-28,,-5700.0,,High,60
+Training Platform,Code Review,Natasha Singh,Critical,Completed,1.0,2024-12-28,2025-01-04,-6200.0,7.0,High,60
+API Gateway,Security Review,Lisa Wang,High,Completed,1.0,2024-08-23,2024-08-24,-7600.0,1.0,High,60
+API Gateway,Accessibility Audit,Carlos Mendez,High,Delayed,0.6,2025-02-07,,-7800.0,,High,60
+Marketing Automation,Sprint Planning,Elena Rodriguez,High,Delayed,0.58,2024-07-19,,-8000.0,,High,60
+Budget Planning Tool,Requirements Gathering,Marcus Johnson,High,Delayed,0.63,2025-01-15,,-9800.0,,High,60
+Supply Chain Optimization,Quality Assurance,Ahmed Hassan,High,Completed,1.0,2024-02-10,2024-03-26,-10500.0,45.0,High,60
+Analytics Dashboard,Integration Testing,Jessica Turner,High,Completed,1.0,2024-07-12,2024-07-30,-10800.0,18.0,High,60
+HR System Upgrade,Prototype Development,Ahmed Hassan,Critical,Completed,1.0,2024-11-21,2024-12-16,-10800.0,25.0,High,60
+Email Platform Migration,Analytics Integration,Natasha Singh,Critical,Completed,1.0,2025-02-13,2025-02-28,-11000.0,15.0,High,60
+Inventory System,Training Materials,James Wilson,High,Delayed,0.5,2024-12-14,,-11100.0,,High,60
+Chatbot Development,Status Reporting,Ahmed Hassan,High,Delayed,0.58,2024-06-07,,-16000.0,,High,60
+CRM Migration,Integration Testing,Jessica Turner,High,Delayed,0.85,2025-01-23,,-16600.0,,High,60
+Social Media Revamp,Go-Live Preparation,Robert Garcia,Critical,Delayed,0.75,2024-09-04,,-19100.0,,High,60
+Office Relocation,Data Migration,Robert Garcia,High,Delayed,0.61,2024-07-22,,-28000.0,,High,60
+HR System Upgrade,Infrastructure Setup,David Kim,Critical,Completed,1.0,2024-10-27,2024-10-25,27600.0,-2.0,High,70
+CRM Migration,Data Migration,Natasha Singh,High,Completed,1.0,2024-11-22,2024-11-14,20600.0,-8.0,High,70
+Social Media Revamp,Integration Testing,Natasha Singh,High,Completed,1.0,2024-12-31,2024-12-31,18600.0,0.0,High,70
+Inventory System,Risk Assessment,Hannah White,Critical,Completed,1.0,2025-02-28,2025-02-25,16000.0,-3.0,High,70
+Payment Integration,Change Management,Robert Garcia,Critical,Completed,1.0,2025-01-11,2025-01-01,15000.0,-10.0,High,70
+Training Platform,Stakeholder Interviews,Brian Taylor,Critical,Completed,1.0,2024-12-20,2024-12-20,14400.0,0.0,High,70
+ERP Implementation,Risk Assessment,Ahmed Hassan,High,Completed,1.0,2024-11-17,2024-11-17,10200.0,0.0,High,70
+Website Redesign,UI/UX Design,Sarah Chen,Critical,Completed,1.0,2024-06-21,2024-06-21,9700.0,0.0,High,70
+Chatbot Development,User Training,Chris Evans,High,Completed,1.0,2024-02-27,2024-02-27,9600.0,0.0,High,70
+Office Relocation,Change Management,Elena Rodriguez,High,Completed,1.0,2024-06-08,2024-06-08,6800.0,0.0,High,70
+Brand Refresh,Documentation,Olivia Martinez,High,Completed,1.0,2024-11-27,2024-11-25,6700.0,-2.0,High,70
+Budget Planning Tool,Technical Architecture,Olivia Martinez,Critical,Completed,1.0,2024-11-21,2024-11-21,6300.0,0.0,High,70
+Annual Report,Code Review,Michael Brown,High,Completed,1.0,2024-09-05,2024-08-27,5300.0,-9.0,High,70
+Analytics Dashboard,Vendor Evaluation,Stephanie Adams,Critical,Completed,1.0,2024-05-09,2024-05-09,4800.0,0.0,High,70
+Compliance Overhaul,Security Review,Tom Mitchell,High,Completed,1.0,2024-09-20,2024-09-20,4200.0,0.0,High,70
+Vendor Portal,Database Design,Carlos Mendez,High,Completed,1.0,2024-04-04,2024-04-04,4200.0,0.0,High,70
+DevOps Pipeline,Analytics Integration,Natasha Singh,High,Completed,1.0,2024-10-09,2024-09-29,4200.0,-10.0,High,70
+Product Launch Q1,Requirements Gathering,Jessica Turner,High,Completed,1.0,2024-02-09,2024-02-08,3900.0,-1.0,High,70
+Customer Portal,Backend Development,Daniel Park,High,Completed,1.0,2024-04-25,2024-04-20,3600.0,-5.0,High,70
+CRM Migration,Prototype Development,Olivia Martinez,High,Completed,1.0,2024-12-29,2024-12-21,3400.0,-8.0,High,70
+ERP Implementation,Compliance Check,Amanda Foster,High,Completed,1.0,2024-03-15,2024-03-15,2300.0,0.0,High,70
+Social Media Revamp,Communication Plan,Jessica Turner,High,Completed,1.0,2024-08-16,2024-08-11,2000.0,-5.0,High,70
+Inventory System,API Development,Kevin O'Brien,High,Completed,1.0,2024-06-14,2024-06-14,2000.0,0.0,High,70
+Vendor Portal,Analytics Integration,Daniel Park,High,Completed,1.0,2024-11-26,2024-11-26,1900.0,0.0,High,70
+Website Redesign,Retrospective,Elena Rodriguez,High,Completed,1.0,2024-02-05,2024-02-05,1700.0,0.0,High,70
+Social Media Revamp,Iteration Planning,James Wilson,High,Completed,1.0,2025-01-21,2025-01-17,1100.0,-4.0,High,70
+Product Launch Q1,UI/UX Design,Carlos Mendez,Critical,In Progress,0.92,2025-02-13,,700.0,,High,70
+Website Redesign,Optimization,Hannah White,High,Completed,1.0,2024-03-07,2024-02-28,500.0,-8.0,High,70
+HR System Upgrade,Deployment Planning,Carlos Mendez,High,Completed,1.0,2024-05-01,2024-05-01,400.0,0.0,High,70
+Annual Report,Requirements Gathering,Priya Patel,Critical,Completed,1.0,2024-04-03,2024-04-01,300.0,-2.0,High,70
+HR System Upgrade,Go-Live Preparation,Hannah White,High,Completed,1.0,2024-05-24,2024-05-23,300.0,-1.0,High,70
+Email Platform Migration,Sprint Planning,Robert Garcia,High,Completed,1.0,2024-09-28,2024-09-18,200.0,-10.0,High,70
+Brand Refresh,Sprint Planning,Rachel Thompson,Critical,In Progress,0.91,2025-05-19,,200.0,,High,70
+API Gateway,Documentation,Daniel Park,Critical,Completed,1.0,2024-03-14,2024-03-11,100.0,-3.0,High,70

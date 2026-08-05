@@ -1,0 +1,31 @@
+project_name,project_health_score,health_status,delayed_tasks,over_budget_tasks,average_completion_pct,total_budget_variance
+Analytics Dashboard,53.5,Red,23,20,68.2,-309900.0
+Website Redesign,53.8,Red,21,18,70.2,-160700.0
+Inventory System,54.6,Red,21,21,63.1,-518200.0
+Training Platform,54.6,Red,23,19,66.8,-363800.0
+Office Relocation,55.6,Red,18,14,64.4,-278200.0
+Brand Refresh,56.4,Red,16,15,71.1,-203800.0
+Supply Chain Optimization,56.8,Red,19,13,60.9,-516300.0
+Data Warehouse Build,57.4,Red,15,13,67.6,-228900.0
+Product Launch Q1,57.5,Red,23,19,69.3,-434000.0
+Cloud Infrastructure,58.1,Red,18,13,58.7,-174100.0
+Customer Portal,58.6,Red,16,10,68.0,-328800.0
+Onboarding Automation,60.0,Amber,20,11,61.8,-449400.0
+API Gateway,60.2,Amber,16,11,63.0,-225900.0
+Compliance Overhaul,60.2,Amber,19,10,73.2,-392200.0
+Mobile App Launch,60.2,Amber,15,11,52.6,-422500.0
+Product Launch Q2,60.6,Amber,19,14,67.7,-363700.0
+Payment Integration,61.0,Amber,19,18,62.0,-257100.0
+ERP Implementation,61.1,Amber,14,12,75.0,-93600.0
+Social Media Revamp,61.1,Amber,16,15,67.8,-354800.0
+DevOps Pipeline,62.2,Amber,15,15,63.8,-259800.0
+Security Audit,63.7,Amber,16,7,59.7,-259600.0
+HR System Upgrade,63.8,Amber,16,11,65.3,-377900.0
+Budget Planning Tool,64.6,Amber,18,11,65.5,-445300.0
+Performance Review System,64.8,Amber,11,10,58.1,-252800.0
+Email Platform Migration,65.0,Amber,18,14,49.4,-714700.0
+CRM Migration,65.9,Amber,15,14,59.7,-252500.0
+Marketing Automation,66.7,Amber,13,8,52.8,-504800.0
+Chatbot Development,68.3,Amber,9,6,50.9,-316400.0
+Annual Report,68.8,Amber,9,7,53.0,-220000.0
+Vendor Portal,72.0,Amber,8,7,41.2,-575300.0
