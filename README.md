@@ -89,11 +89,9 @@ The Power BI dashboard includes:
 
 ## Dashboard preview
 
-_Add a screenshot here after saving it to `dashboard/screenshots/executive_overview.png`._
 
-```md
 ![Program Health & Risk Monitor](dashboard/screenshots/executive_overview.png)
-```
+
 
 ## Repository structure
 
